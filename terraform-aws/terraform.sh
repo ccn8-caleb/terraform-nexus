@@ -1,3 +1,5 @@
+#!/bin/bash
+
 terraform init \
     -backend-config="address=${TF_VAR_backend_address}" \
     -backend-config="path=${TF_VAR_backend_path}" \
