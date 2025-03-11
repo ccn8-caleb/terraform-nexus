@@ -1,4 +1,4 @@
-<h1 align="center"> Terraform Nexus - AWS </h1> <br>
+<h1 align="center"> Terraform Nexus - GCP </h1> <br>
 <p align="center">
   <a href="https://developer.hashicorp.com/terraform/intro">
     <img alt="Terraform" title="Terraform" src="../_assets/Terraform_onDark.png" width="512">
