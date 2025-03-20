@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  A collection of Terraform building blocks for the Goocle Cloud Platform
+  A collection of Terraform building blocks for the Google Cloud Platform
 </p>
